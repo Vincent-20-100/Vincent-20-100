@@ -4,6 +4,6 @@
 
 🌱 Currently developing skills in SQL, Python, and data visualization at Le Wagon.
 
-📈 Combining new data analytics expertise with business insights from my entrepreneurial journey to drive efficient, data-driven decisions.
+📈 Combining new data analytics expertise and my entrepreneurial journey to drive efficient, data-driven decisions.
 
 🏠 Passionate about real estate; I built my own house from scratch, managing the entire project from planning to completion.
