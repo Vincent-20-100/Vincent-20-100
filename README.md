@@ -2,6 +2,8 @@
 
 🛢️ I honed my data skills in SQL, Python, and data visualization during my training at Le Wagon Bordeaux.
 
+🎓 As a Teacher Assistant at Le Wagon Bordeaux, I support students in mastering Python, SQL, and data analytics.
+
 🛠️ I bring over 10 years of experience as an independent contractor, specializing in construction and tailored client solutions.
 
 📈 I combine my new expertise in data analytics with my entrepreneurial experience to drive efficient, data-driven decisions.
