@@ -1,4 +1,4 @@
-👋 Hi, I'm Vincent, a Data Analyst with a background in woodworking and project management.
+👋 Hi, I'm Vincent, a Data Analyst with a background in construction sector and project management.
 
 🛢️ I honed my data skills in SQL, Python, and data visualization during my training at Le Wagon Bordeaux.
 
