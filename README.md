@@ -1,5 +1,5 @@
 **👋 Welcome!**\
-I'm Vincent Lamy, a Data Analyst currently pursuing an **MSc in Data for Finance at Albert School / Mines Paris PSL**. With a unique background combining entrepreneurship, project management, and a growing specialization in data science applied to finance, I bring both strategic thinking and hands-on technical skills to the table.
+I'm Vincent Lamy, a **Data Analyst at TotalEnergies** currently pursuing an **MSc in Data for Finance at Albert School / Mines Paris PSL**. With a unique background combining entrepreneurship, project management, and a growing specialization in data science applied to finance, I bring both strategic thinking and hands-on technical skills to the table.
 
 **🧠 What I Do?**
 - Data Analytics: Python (Pandas, Numpy), SQL (BigQuery, Databricks, DBT)
