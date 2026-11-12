@@ -13,9 +13,6 @@ I'm Vincent Lamy, a **Data Analyst at TotalEnergies** currently pursuing an **MS
 **🔍 Current Focus.**\
 Building at the intersection of applied finance and AI infrastructure. On the finance side, I work on portfolio construction under regime-switching frameworks, price elasticity modeling, and DCF-based valuation. On the AI side, I develop agentic systems — NL2SQL engines for querying proprietary databases in natural language, and local RAG pipelines giving LLMs persistent memory over multi-modal sources. Day-to-day: Python, SQL, PySpark, Databricks, Power BI. Side stack: LangChain/LangGraph, TimescaleDB, pvlib
 
-**🏗️ Previous Life.** \
-Before switching to data, I spent over 6 years in the construction industry. I ran my own company, managed multi-step projects, optimized budgets, and even built my own house, an experience that taught me problem-solving, client focus, and full accountability.
-
 **📫 Let’s connect!** \
 If you're looking for a data specialist with real-world business experience, a drive to learn, and a strong interest in finance and analytics, feel free to connect:
 
